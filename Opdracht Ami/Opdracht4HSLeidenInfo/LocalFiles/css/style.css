@@ -1,0 +1,111 @@
+body 
+{
+	width:100%; /* set total body width 100% of screen */
+	background-color:#00000; /* set default background to black */
+	margin:0px; /* set margin to 0 because it has a value by default */	
+	padding:0px; /* set padding to 0 because it has a value by default */	
+	font-family:"Verdana", Times, serif; /* set the font of the app */ 
+	font-size:8px; /* Set the main font size */
+	overflow:hidden; /* Set the overflow to hidden to prevent scrollbars */
+	background-image:url("../images/background.png"); /* set the background image */
+}
+
+/*
+Change the headers and menu items to purple
+*/
+h1, h2, nav a
+{
+	color:purple;
+}
+
+/* splash div to hide and show */
+div#splash 
+{
+	text-align:center;	/* set the splash in the middle of the screen */
+	width:100%;	/* Set the width of the div of the splash to 100% (stretch) */
+	height:100%; /* Set the height of the div of the splash to 100% (stretch) */
+	vertical-align:center;	/* Align the splash vertically */
+}
+
+/* header div for logo */
+header 
+{
+	/* Add padding for some space */
+	padding:10px;	
+	padding-left:25px;
+}
+
+/* container div that includes all the main content like menu, content ect.. */
+div#container 
+{
+	height:auto;	/* set the high depending on the content size */
+	width:300px;	/* set the default width */
+	padding:10px;	/* add some space for the looks */
+}
+
+/* content div to hold the content (in the middle) */
+article
+{
+	border:1px solid #000;	/* Set the content div border to black */
+	height:350px; /* set height to fixed size to prevent content strechting */
+	width:250px; /* set width to fixed size for the looks */
+	margin-left:auto; /* set the content to align in center */
+	margin-right:auto; /* set the content to align in center */
+	padding:10px;	/* add some space for the looks */
+	
+					/* set the content to go behind the div (like a scrollpane) */
+	overflow:auto;	/* # ONLY WORKS ON IPHONE: http://code.google.com/p/android/issues/detail?id=2911 # */
+	
+	/* Set the content background image */
+	background-image:url("../images/content.png");
+	
+	/* Set shadow looks: http://css-tricks.com/snippets/css/css-box-shadow/ */
+   	-moz-box-shadow:    inset 0 0 10px #000000;
+   	-webkit-box-shadow: inset 0 0 10px #000000;
+  	box-shadow:         inset 0 0 10px #000000;
+}
+
+/* news div for the first page */
+div#news 
+{
+	text-align:left; /* align text to left */
+	width:100%; /* set the width as far as it can */
+}
+
+/* menu to navigate between pages */
+div#menu 
+{
+	height:40px; /* default image/menu height 40px */
+	width:100%; /* set the width to 100% for total screen width size */
+	text-align:center; /* set the menu to align in center */
+	position:absolute; /* set the position absolute so we can manually edit the position */
+	bottom:0px; /* set the div to the bottom */
+	background-image:url("../images/background.png"); /* set the menu background image */
+	font-size:30px; /* Set the font size for the big letters */
+	display:block; /* Set the menu so it will act as e block */
+	color:#FFFFFF; /* set the default color to white */
+	padding-top:3px;	/* set some padding for the looks */
+	margin-left:-10px; /* set some margin for the looks */
+	
+	/* Set the menu shadow looks: http://css-tricks.com/snippets/css/css-box-shadow/ */
+	-moz-box-shadow:    3px 3px 20px 6px #000;
+  	-webkit-box-shadow: 3px 3px 20px 6px #000;
+  	box-shadow:         3px 3px 20px 6px #000;
+}
+
+/* the navigation elements (parent of the a) for the menu */
+nav 
+{
+	/* list-style-type: none;  set the UL list-style to none, because I use it as a menu not a list */
+	margin:0px; /* set margin to 0 because it has a value by default */
+	padding:0px; /* set padding to 0 because it has a value by default */
+}
+
+/* The a elements (children of the nav) for the menu */
+nav a
+{
+	display: inline; /* set the list type to inline so menu will line-up */
+	cursor:pointer; /* set the cursor to pointer when used inside browser */
+	padding-left:10px; /* set some padding for the looks */
+	padding-right:10px;	/* set some padding for the looks */
+}

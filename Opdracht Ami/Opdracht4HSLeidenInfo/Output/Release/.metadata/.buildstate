@@ -1,0 +1,49 @@
+rebuild-needed = false
+variant = MoSync/Emulator Release Non-finalizer 
+success = true
+timestamp = 1334154995928
+
+[files]
+LocalFiles/images/menu_02.png = 1334152592000
+LocalFiles/images/menu_03.png = 1334152592000
+.settings/org.eclipse.wst.jsdt.ui.superType.container = 1334150987000
+LocalFiles/js/bridge.js = 1334150986000
+LocalFiles/js/jquery.js = 1334153771000
+main.cpp = 1334150986000
+.build = 1334150986000
+LocalFiles/index.html = 1334154527000
+.project = 1334150987000
+Resources/Resources.lst = 1334150986000
+LocalFiles/css/style.css = 1334154914000
+LocalFiles/images/menu_04.png = 1334152592000
+.mosyncproject.local = 1334150987000
+LocalFiles/images/icon.png = 1334151805000
+LocalFiles/images/splash.png = 1334151951000
+.mosyncproject = 1334150987000
+LocalFiles/js/script.js = 1334153777000
+.cproject = 1334150986000
+.settings/org.eclipse.wst.jsdt.ui.superType.name = 1334150987000
+Resources/LocalFiles.bin = 1334154996000
+LocalFiles/images/menu_01.png = 1334152592000
+
+[dependencies]
+/Opdracht4-HSLeidenInfo/Resources/LocalFiles.bin = /Opdracht4-HSLeidenInfo/LocalFiles/css/style.css, /Opdracht4-HSLeidenInfo/LocalFiles/js, /Opdracht4-HSLeidenInfo/LocalFiles/images, /Opdracht4-HSLeidenInfo/LocalFiles/css, /Opdracht4-HSLeidenInfo/LocalFiles/js/bridge.js, /Opdracht4-HSLeidenInfo/LocalFiles/js/script.js, /Opdracht4-HSLeidenInfo/LocalFiles/index.html, /Opdracht4-HSLeidenInfo/LocalFiles/js/jquery.js, /Opdracht4-HSLeidenInfo/LocalFiles
+/Opdracht4-HSLeidenInfo/Resources/Resources.lst = /Opdracht4-HSLeidenInfo/Output/Release/resources
+/Opdracht4-HSLeidenInfo/Output/Release/resources = /Opdracht4-HSLeidenInfo/Resources/LocalFiles.bin
+/Opdracht4-HSLeidenInfo/main.cpp = /Opdracht4-HSLeidenInfo/Output/Release/main.s
+/Opdracht4-HSLeidenInfo/Output/Release/MAHeaders.h = /Opdracht4-HSLeidenInfo/Resources/Resources.lst
+/Opdracht4-HSLeidenInfo/Output/Release/main.s = /Opdracht4-HSLeidenInfo/Applications/MoSync/include/MAUtil/String.h, /Opdracht4-HSLeidenInfo/Applications/MoSync/include/MAUtil/Dictionary_impl.h, /Opdracht4-HSLeidenInfo/Applications/MoSync/include/MAUtil/HashDict_impl.h, /Opdracht4-HSLeidenInfo/Applications/MoSync/include/MAUtil/RefCounted.h, /Opdracht4-HSLeidenInfo/Applications/MoSync/include/MAUtil/HashDict.h, /Opdracht4-HSLeidenInfo/Applications/MoSync/include/maassert.h, /Opdracht4-HSLeidenInfo/Applications/MoSync/include/MAUtil/HashMap_impl.h, /Opdracht4-HSLeidenInfo/Applications/MoSync/include/MAUtil/collection_common.h, /Opdracht4-HSLeidenInfo/Applications/MoSync/include/NativeUI/WebView.h, /Opdracht4-HSLeidenInfo/Applications/MoSync/include/Wormhole/FileUtil.h, /Opdracht4-HSLeidenInfo/Applications/MoSync/include/MAUtil/Map.h, /Opdracht4-HSLeidenInfo/main.cpp, /Opdracht4-HSLeidenInfo/Applications/MoSync/include/maheap.h, /Opdracht4-HSLeidenInfo/Applications/MoSync/include/mavsprintf.h, /Opdracht4-HSLeidenInfo/Applications/MoSync/include/maapi.h, /Opdracht4-HSLeidenInfo/Applications/MoSync/include/Wormhole/WebAppMoblet.h, /Opdracht4-HSLeidenInfo/Applications/MoSync/include/NativeUI/Screen.h, /Opdracht4-HSLeidenInfo/Applications/MoSync/include/ma.h, /Opdracht4-HSLeidenInfo/Applications/MoSync/include/maarg.h, /Opdracht4-HSLeidenInfo/Applications/MoSync/include/MAUtil/ListenerSet.h, /Opdracht4-HSLeidenInfo/Applications/MoSync/include/kazlib/hash.h, /Opdracht4-HSLeidenInfo/Applications/MoSync/include/maapi_defs.h, /Opdracht4-HSLeidenInfo/Applications/MoSync/include/MAUtil/Vector.h, /Opdracht4-HSLeidenInfo/Applications/MoSync/include/Wormhole/WebViewMessage.h, /Opdracht4-HSLeidenInfo/Applications/MoSync/include/MAUtil/Dictionary.h, /Opdracht4-HSLeidenInfo/Applications/MoSync/include/mastring.h, /Opdracht4-HSLeidenInfo/Applications/MoSync/include/IX_WIDGET.h, /Opdracht4-HSLeidenInfo/Applications/MoSync/include/NativeUI/WidgetUtil.h, /Opdracht4-HSLeidenInfo/Applications/MoSync/include/kazlib/dict.h, /Opdracht4-HSLeidenInfo/Applications/MoSync/include/conprint.h, /Opdracht4-HSLeidenInfo/Applications/MoSync/include/MAUtil/Moblet.h, /Opdracht4-HSLeidenInfo/Applications/MoSync/include/MAUtil/Environment.h, /Opdracht4-HSLeidenInfo/Applications/MoSync/include/limits.h, /Opdracht4-HSLeidenInfo/Applications/MoSync/include/mactype.h, /Opdracht4-HSLeidenInfo/Applications/MoSync/include/MAUtil/HashMap.h, /Opdracht4-HSLeidenInfo/Applications/MoSync/include/MAUtil/util.h, /Opdracht4-HSLeidenInfo/Applications/MoSync/include/NativeUI/Widget.h
+
+[build-properties]
+build.prefs:memory.heap/Debug = 3072
+build.prefs:additional.libraries/Debug = MAUtilD.lib, NativeUID.lib, MAFSD.lib, WormholeD.lib
+com.mobilesorcery.sdk.html5.support = true
+template.id = project.html5.hybrid
+build.prefs:additional.libraries = MAUtil.lib, NativeUI.lib, MAFS.lib, Wormhole.lib
+build.prefs:memory.stack/Release = 512
+build.prefs:memory.data/Debug = 4096
+build.prefs:memory.heap/Release = 3072
+build.prefs:memory.stack/Debug = 512
+privileged.access.token = A6C963BD28878425D692D921D6D5BD6F
+build.prefs:memory.data/Release = 4096
+

@@ -1,0 +1,42 @@
+ \
+ /Users/feonx/workspace/Opdracht4HSLeidenInfo/FinalOutput/Release/Android/Android\ 2.x/main.s:  \
+ /Users/feonx/workspace/Opdracht4HSLeidenInfo/main.cpp \
+  /Applications/MoSync/include/Wormhole/WebAppMoblet.h \
+  /Applications/MoSync/include/MAUtil/Moblet.h \
+  /Applications/MoSync/include/ma.h /Applications/MoSync/include/maapi.h \
+  /Applications/MoSync/include/maapi_defs.h \
+  /Applications/MoSync/include/maassert.h \
+  /Applications/MoSync/include/ma.h \
+  /Applications/MoSync/include/MAUtil/Environment.h \
+  /Applications/MoSync/include/MAUtil/Vector.h \
+  /Applications/MoSync/include/MAUtil/ListenerSet.h \
+  /Applications/MoSync/include/MAUtil/String.h \
+  /Applications/MoSync/include/MAUtil/RefCounted.h \
+  /Applications/MoSync/include/NativeUI/Screen.h \
+  /Applications/MoSync/include/NativeUI/Widget.h \
+  /Applications/MoSync/include/conprint.h \
+  /Applications/MoSync/include/maarg.h \
+  /Applications/MoSync/include/mastring.h \
+  /Applications/MoSync/include/mactype.h \
+  /Applications/MoSync/include/mavsprintf.h \
+  /Applications/MoSync/include/MAUtil/Map.h \
+  /Applications/MoSync/include/MAUtil/Dictionary.h \
+  /Applications/MoSync/include/kazlib/dict.h \
+  /Applications/MoSync/include/limits.h \
+  /Applications/MoSync/include/MAUtil/collection_common.h \
+  /Applications/MoSync/include/MAUtil/Dictionary_impl.h \
+  /Applications/MoSync/include/MAUtil/Vector.h \
+  /Applications/MoSync/include/MAUtil/Environment.h \
+  /Applications/MoSync/include/MAUtil/util.h \
+  /Applications/MoSync/include/MAUtil/String.h \
+  /Applications/MoSync/include/IX_WIDGET.h \
+  /Applications/MoSync/include/NativeUI/WidgetUtil.h \
+  /Applications/MoSync/include/NativeUI/WebView.h \
+  /Applications/MoSync/include/Wormhole/WebViewMessage.h \
+  /Applications/MoSync/include/MAUtil/HashMap.h \
+  /Applications/MoSync/include/MAUtil/HashDict.h \
+  /Applications/MoSync/include/maheap.h \
+  /Applications/MoSync/include/kazlib/hash.h \
+  /Applications/MoSync/include/MAUtil/HashDict_impl.h \
+  /Applications/MoSync/include/MAUtil/HashMap_impl.h \
+  /Applications/MoSync/include/Wormhole/FileUtil.h

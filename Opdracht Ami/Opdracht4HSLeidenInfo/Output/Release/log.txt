@@ -1,0 +1,46 @@
+Hello World!
+argc: 12
+1:-program
+3:-resource
+5:-resolution
+8:-fd
+Emulator connected.
+10:-id
+fmt->BitsPerPixel: 32
+InitVM .. 
+LoadVM
+maxCustomEventSize: 0x28
+Head.DataSize: 0x400000
+Head.StackSize: 0x80000
+Head.HeapSize: 0x300000
+Head.EntryPoint: 0xe2de
+Head.CodeLen: 0x358d2
+CODE_SEGMENT_SIZE: 0x40000
+Head.DataLen: 0x4434
+Head.DataSize: 0x400000
+DATA_SEGMENT_SIZE: 0x400000
+Head.IntLen: 0x4ed
+Type 5, size 28343
+ResLoad complete
+IDL version match!
+maPanic 0, "This application uses Native UI, which currently works on iOS and Android only - please select an iOS or Android target profile in the right-hand profile panel."
+DumpCallStackEx:
+reportCallStack
+0
+IP: 0x3291b
+Call stack: 8 frames
+0: 0xe304
+1: 0x208
+2: 0x34f1f
+3: 0x34e1a
+4: 0x305ce
+5: 0x31b25
+6: 0x32b22
+7: 0x3291d
+Exit @ IP 0x3291b  SP 0x3fff24
+InstCount: 27645
+IP: 0xE2DE
+Profile dumped.
+level: 8
+maxLevel: 14
+nodes: 174

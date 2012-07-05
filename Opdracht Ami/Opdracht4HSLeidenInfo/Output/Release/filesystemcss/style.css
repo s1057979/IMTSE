@@ -1,0 +1,33 @@
+body {
+	width:100%;
+	background-color:#00000;
+}
+
+
+div#content {
+	border:1px solid #000;
+	height:auto;
+	width:100%;
+	text-align:center;
+}
+
+div#menu {
+	border:1px solid #000;
+	height:50px;
+	width:100%;
+	text-align:center;
+	position:absolute; 
+	bottom:0px;
+}
+
+div#menu ul {
+	list-style-type: none;
+	margin:0px;
+	padding:0px;
+}
+
+div#menu ul li {
+	display: inline;
+	margin-right:-4px;
+	cursor:pointer;
+}

@@ -1,0 +1,393 @@
+TOpdracht4-HSLeidenInfo
+v4
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.app/Info.plist Opdracht4-HSLeidenInfo.plist
+cCpResource data_section.bin build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.app/data_section.bin
+cCpResource resources build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.app/resources
+cCpResource Icon-72.png build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.app/Icon-72.png
+cCpResource Icon.png build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.app/Icon.png
+cProcessPCH /var/folders/kr/czt719xx4kg2q297w57nj5sr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MoSync_Prefix-fdqqgiypnxotqehcjteazklwyxyp/MoSync_Prefix.pch.pth MoSync_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH++ /var/folders/kr/czt719xx4kg2q297w57nj5sr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MoSync_Prefix-fksbabuajbbdqfevzmxwatzeksgb/MoSync_Prefix.pch.pth MoSync_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH++ /var/folders/kr/czt719xx4kg2q297w57nj5sr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MoSync_Prefix-fxqsmxyyniclqlfgbkoczblpfgiu/MoSync_Prefix.pch.pth MoSync_Prefix.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Opdracht4-HSLeidenInfo.build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.build/Objects-normal/i386/rebuild.build.o /Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/Classes/rebuild.build.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Opdracht4-HSLeidenInfo.build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.build/Objects-normal/i386/main.o /Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Opdracht4-HSLeidenInfo.build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.build/Objects-normal/i386/MoSyncAppDelegate.o /Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/Classes/MoSyncAppDelegate.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Opdracht4-HSLeidenInfo.build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.build/Objects-normal/i386/MoSyncViewController.o /Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/Classes/MoSyncViewController.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.app/Opdracht4-HSLeidenInfo normal i386
+cGenerateDSYMFile /Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.app.dSYM /Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.app/Opdracht4-HSLeidenInfo
+cTouch /Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk
+c000000004F7217470000000000000110
+t1332877127
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004E7806CF000000000018D430
+t1316488911
+s1627184
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/AddressBook.framework/AddressBook
+c000000004E78054400000000000954B0
+t1316488516
+s611504
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004E72F1F200000000002F4210
+t1316155890
+s3097104
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004E72F1CC0000000000245480
+t1316155852
+s2380928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004E78059F00000000000859A0
+t1316488607
+s547232
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/CoreMotion.framework/CoreMotion
+c000000004E7805A600000000000F11E0
+t1316488614
+s987616
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/EventKit.framework/EventKit
+c000000004E780612000000000014A5E0
+t1316488722
+s1353184
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004E72F2960000000000353830
+t1316156054
+s3487792
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004E72F28F0000000000001534
+t1316156047
+s5428
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+c000000004E7808D3000000000023A3F0
+t1316489427
+s2335728
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/MessageUI.framework/MessageUI
+c000000004E78081300000000000CA7C0
+t1316489235
+s829376
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000004E72F52C000000000001D2E0
+t1316156716
+s119520
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004E72F69C00000000001A9D20
+t1316157084
+s1744160
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004E78066A0000000000000BCB
+t1316488810
+s3019
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004E7806AB00000000008F7390
+t1316488875
+s9401232
+
+N/Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/Classes/MoSyncAppDelegate.mm
+c000000004F8597070000000000000D26
+t1334155015
+s3366
+
+N/Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/Classes/MoSyncViewController.mm
+c000000004F85970700000000000007C1
+t1334155015
+s1985
+
+N/Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/Classes/rebuild.build.cpp
+c000000004F85970800000000000A7B95
+t1334155016
+s686997
+
+N/Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/Icon-72.png
+c000000004F85970F000000000000090A
+t1334155023
+s2314
+
+N/Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/Icon.png
+c000000004F85970E0000000000000719
+t1334155022
+s1817
+
+N/Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/MoSync_Prefix.pch
+c000000004F85970700000000000000BD
+t1334155015
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Opdracht4-HSLeidenInfo.build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.build/Objects-normal/i386/MoSyncAppDelegate.o
+t2
+s0
+
+N/Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Opdracht4-HSLeidenInfo.build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.build/Objects-normal/i386/MoSyncViewController.o
+t2
+s0
+
+N/Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Opdracht4-HSLeidenInfo.build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.build/Objects-normal/i386/Opdracht4-HSLeidenInfo.LinkFileList
+c000000004F85971300000000000003A2
+t1334155027
+s930
+
+N/Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Opdracht4-HSLeidenInfo.build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Opdracht4-HSLeidenInfo.build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.build/Objects-normal/i386/rebuild.build.o
+t2
+s0
+
+N/Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.app
+t2
+s0
+
+N/Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.app.dSYM
+t2
+s0
+
+N/Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.app/Icon-72.png
+t2
+s0
+
+N/Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.app/Icon.png
+t2
+s0
+
+N/Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.app/Info.plist
+t2
+s0
+
+N/Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.app/Opdracht4-HSLeidenInfo
+t2
+s0
+
+N/Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.app/PkgInfo
+t2
+s0
+
+N/Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.app/data_section.bin
+t2
+s0
+
+N/Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.app/resources
+t2
+s0
+
+N/Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/data_section.bin
+c000000004F8597080000000000004434
+t1334155016
+s17460
+
+N/Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/libs/Release-iphonesimulator/libMoSyncLib.a
+c000000004F85970800000000005216D0
+t1334155016
+s5379792
+
+N/Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/main.m
+c000000004F85970800000000000003F2
+t1334155016
+s1010
+
+N/Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/resources
+c000000004F8597080000000000006EC4
+t1334155016
+s28356
+
+N/var/folders/kr/czt719xx4kg2q297w57nj5sr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MoSync_Prefix-fdqqgiypnxotqehcjteazklwyxyp/MoSync_Prefix.pch.pth
+t2
+s0
+
+N/var/folders/kr/czt719xx4kg2q297w57nj5sr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MoSync_Prefix-fksbabuajbbdqfevzmxwatzeksgb/MoSync_Prefix.pch.pth
+t2
+s0
+
+N/var/folders/kr/czt719xx4kg2q297w57nj5sr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MoSync_Prefix-fxqsmxyyniclqlfgbkoczblpfgiu/MoSync_Prefix.pch.pth
+t2
+s0
+
+NOpdracht4-HSLeidenInfo.plist
+c000000004F859708000000000000037B
+t1334155016
+s891
+
+CCheck dependencies
+r0
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies2107c591ce35b541^e3371d93ce35b541^---0#1#0#--18"Check dependencies36"28FD34A6-E47E-40A8-BB3F-8712959ED251-
+
+CCompileC build/Opdracht4-HSLeidenInfo.build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.build/Objects-normal/i386/MoSyncAppDelegate.o /Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/Classes/MoSyncAppDelegate.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s355847830.413898
+e355847830.673190
+r1
+xCompileC
+xbuild/Opdracht4-HSLeidenInfo.build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.build/Objects-normal/i386/MoSyncAppDelegate.o
+x/Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/Classes/MoSyncAppDelegate.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection144"Compile /Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/Classes/MoSyncAppDelegate.mmfa256a96ce35b541^4355ac96ce35b541^---0#0#0#-19%DVTDocumentLocation2@152"file://localhost/Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/Classes/MoSyncAppDelegate.mm0000000000000000^3927"CompileC build/Opdracht4-HSLeidenInfo.build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.build/Objects-normal/i386/MoSyncAppDelegate.o Classes/MoSyncAppDelegate.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c++ -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -Wno-arc-abi -Wc++0x-extensions -D_USE_REBUILDER_ -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote /Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Opdracht4-HSLeidenInfo.build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.build/Opdracht4-HSLeidenInfo-generated-files.hmap -I/Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Opdracht4-HSLeidenInfo.build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.build/Opdracht4-HSLeidenInfo-own-target-headers.hmap -I/Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Opdracht4-HSLeidenInfo.build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.build/Opdracht4-HSLeidenInfo-all-target-headers.hmap -iquote /Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Opdracht4-HSLeidenInfo.build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.build/Opdracht4-HSLeidenInfo-project-headers.hmap -I/Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Release-iphonesimulator/include -IClasses -I/Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Opdracht4-HSLeidenInfo.build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.build/DerivedSources/i386 -I/Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Opdracht4-HSLeidenInfo.build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.build/DerivedSources -F/Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Release-iphonesimulator -include /var/folders/kr/czt719xx4kg2q297w57nj5sr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MoSync_Prefix-fxqsmxyyniclqlfgbkoczblpfgiu/MoSync_Prefix.pch -MMD -MT dependencies -MF /Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Opdracht4-HSLeidenInfo.build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.build/Objects-normal/i386/MoSyncAppDelegate.d -c /Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/Classes/MoSyncAppDelegate.mm -o /Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Opdracht4-HSLeidenInfo.build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.build/Objects-normal/i386/MoSyncAppDelegate.o36"C3A78A7A-0BE4-4017-83DF-7FEE9A4FCC5B-
+
+CCompileC build/Opdracht4-HSLeidenInfo.build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.build/Objects-normal/i386/MoSyncViewController.o /Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/Classes/MoSyncViewController.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s355847830.414481
+e355847830.669823
+r1
+xCompileC
+xbuild/Opdracht4-HSLeidenInfo.build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.build/Objects-normal/i386/MoSyncViewController.o
+x/Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/Classes/MoSyncViewController.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection147"Compile /Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/Classes/MoSyncViewController.mmc8446a96ce35b541^1e89ab96ce35b541^---0#0#0#-19%DVTDocumentLocation2@155"file://localhost/Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/Classes/MoSyncViewController.mm0000000000000000^3942"CompileC build/Opdracht4-HSLeidenInfo.build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.build/Objects-normal/i386/MoSyncViewController.o Classes/MoSyncViewController.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c++ -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -Wno-arc-abi -Wc++0x-extensions -D_USE_REBUILDER_ -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote /Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Opdracht4-HSLeidenInfo.build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.build/Opdracht4-HSLeidenInfo-generated-files.hmap -I/Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Opdracht4-HSLeidenInfo.build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.build/Opdracht4-HSLeidenInfo-own-target-headers.hmap -I/Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Opdracht4-HSLeidenInfo.build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.build/Opdracht4-HSLeidenInfo-all-target-headers.hmap -iquote /Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Opdracht4-HSLeidenInfo.build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.build/Opdracht4-HSLeidenInfo-project-headers.hmap -I/Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Release-iphonesimulator/include -IClasses -I/Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Opdracht4-HSLeidenInfo.build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.build/DerivedSources/i386 -I/Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Opdracht4-HSLeidenInfo.build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.build/DerivedSources -F/Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Release-iphonesimulator -include /var/folders/kr/czt719xx4kg2q297w57nj5sr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MoSync_Prefix-fxqsmxyyniclqlfgbkoczblpfgiu/MoSync_Prefix.pch -MMD -MT dependencies -MF /Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Opdracht4-HSLeidenInfo.build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.build/Objects-normal/i386/MoSyncViewController.d -c /Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/Classes/MoSyncViewController.mm -o /Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Opdracht4-HSLeidenInfo.build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.build/Objects-normal/i386/MoSyncViewController.o36"B8EE0C92-2096-48D4-BDA7-190B3F2EBCDC-
+
+CCompileC build/Opdracht4-HSLeidenInfo.build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.build/Objects-normal/i386/main.o /Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s355847830.363068
+e355847830.619148
+r1
+xCompileC
+xbuild/Opdracht4-HSLeidenInfo.build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.build/Objects-normal/i386/main.o
+x/Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection122"Compile /Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/main.mc2185d96ce35b541^d47f9e96ce35b541^---0#0#0#-19%DVTDocumentLocation2@130"file://localhost/Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/main.m0000000000000000^3789"CompileC build/Opdracht4-HSLeidenInfo.build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.build/Objects-normal/i386/main.o main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -D_USE_REBUILDER_ -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote /Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Opdracht4-HSLeidenInfo.build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.build/Opdracht4-HSLeidenInfo-generated-files.hmap -I/Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Opdracht4-HSLeidenInfo.build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.build/Opdracht4-HSLeidenInfo-own-target-headers.hmap -I/Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Opdracht4-HSLeidenInfo.build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.build/Opdracht4-HSLeidenInfo-all-target-headers.hmap -iquote /Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Opdracht4-HSLeidenInfo.build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.build/Opdracht4-HSLeidenInfo-project-headers.hmap -I/Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Release-iphonesimulator/include -IClasses -I/Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Opdracht4-HSLeidenInfo.build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.build/DerivedSources/i386 -I/Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Opdracht4-HSLeidenInfo.build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.build/DerivedSources -F/Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Release-iphonesimulator -include /var/folders/kr/czt719xx4kg2q297w57nj5sr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MoSync_Prefix-fdqqgiypnxotqehcjteazklwyxyp/MoSync_Prefix.pch -MMD -MT dependencies -MF /Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Opdracht4-HSLeidenInfo.build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.build/Objects-normal/i386/main.d -c /Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/main.m -o /Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Opdracht4-HSLeidenInfo.build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.build/Objects-normal/i386/main.o36"9F7C7E54-4756-4BC2-A2DB-558B23DD82C8-
+
+CCompileC build/Opdracht4-HSLeidenInfo.build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.build/Objects-normal/i386/rebuild.build.o /Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/Classes/rebuild.build.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s355847827.505661
+e355847832.645934
+r1
+xCompileC
+xbuild/Opdracht4-HSLeidenInfo.build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.build/Objects-normal/i386/rebuild.build.o
+x/Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/Classes/rebuild.build.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection141"Compile /Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/Classes/rebuild.build.cpp118e8193ce35b541^ee5ba598ce35b541^---0#0#0#-19%DVTDocumentLocation2@149"file://localhost/Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/Classes/rebuild.build.cpp0000000000000000^3669"CompileC build/Opdracht4-HSLeidenInfo.build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.build/Objects-normal/i386/rebuild.build.o Classes/rebuild.build.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -D_USE_REBUILDER_ -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote /Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Opdracht4-HSLeidenInfo.build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.build/Opdracht4-HSLeidenInfo-generated-files.hmap -I/Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Opdracht4-HSLeidenInfo.build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.build/Opdracht4-HSLeidenInfo-own-target-headers.hmap -I/Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Opdracht4-HSLeidenInfo.build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.build/Opdracht4-HSLeidenInfo-all-target-headers.hmap -iquote /Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Opdracht4-HSLeidenInfo.build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.build/Opdracht4-HSLeidenInfo-project-headers.hmap -I/Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Release-iphonesimulator/include -IClasses -I/Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Opdracht4-HSLeidenInfo.build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.build/DerivedSources/i386 -I/Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Opdracht4-HSLeidenInfo.build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.build/DerivedSources -F/Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Release-iphonesimulator -include /var/folders/kr/czt719xx4kg2q297w57nj5sr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MoSync_Prefix-fksbabuajbbdqfevzmxwatzeksgb/MoSync_Prefix.pch -MMD -MT dependencies -MF /Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Opdracht4-HSLeidenInfo.build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.build/Objects-normal/i386/rebuild.build.d -c /Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/Classes/rebuild.build.cpp -o /Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Opdracht4-HSLeidenInfo.build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.build/Objects-normal/i386/rebuild.build.o36"E9B922B6-20F1-43B5-8F1A-A75E43896A6A-
+
+CCpResource Icon-72.png build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.app/Icon-72.png
+s355847827.166411
+e355847827.170682
+r1
+xCpResource
+xIcon-72.png
+xbuild/Release-iphonesimulator/Opdracht4-HSLeidenInfo.app/Icon-72.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Copy build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.app/Icon-72.pngbcce2a93ce35b541^25b22b93ce35b541^---0#0#0#-19%DVTDocumentLocation2@192"file://localhost/Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.app/Icon-72.png00f444b6dcffdf42^756"CpResource Icon-72.png build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.app/Icon-72.png    cd /Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -resolve-src-symlinks /Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/Icon-72.png /Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.app36"CDBF2BF2-0EDE-4EE8-B000-B0FC02F13B67-
+
+CCpResource Icon.png build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.app/Icon.png
+s355847827.167139
+e355847827.171243
+r1
+xCpResource
+xIcon.png
+xbuild/Release-iphonesimulator/Opdracht4-HSLeidenInfo.app/Icon.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Copy build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.app/Icon.pngecda2a93ce35b541^1bd72b93ce35b541^---0#0#0#-19%DVTDocumentLocation2@189"file://localhost/Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.app/Icon.png00f444b6dcffdf42^747"CpResource Icon.png build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.app/Icon.png    cd /Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -resolve-src-symlinks /Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/Icon.png /Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.app36"62986487-8CB5-4B88-AB40-68943BFE002F-
+
+CCpResource data_section.bin build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.app/data_section.bin
+s355847827.166368
+e355847827.169638
+r1
+xCpResource
+xdata_section.bin
+xbuild/Release-iphonesimulator/Opdracht4-HSLeidenInfo.app/data_section.bin
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Copy build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.app/data_section.bin03b32a93ce35b541^506e2b93ce35b541^---0#0#0#-19%DVTDocumentLocation2@197"file://localhost/Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.app/data_section.bin00f444b6dcffdf42^771"CpResource data_section.bin build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.app/data_section.bin    cd /Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -resolve-src-symlinks /Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/data_section.bin /Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.app36"E7D62BAA-8CB9-4BAD-A86B-55509EF2FE97-
+
+CCpResource resources build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.app/resources
+s355847827.166343
+e355847827.172267
+r1
+xCpResource
+xresources
+xbuild/Release-iphonesimulator/Opdracht4-HSLeidenInfo.app/resources
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Copy build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.app/resources1adc2a93ce35b541^f4192c93ce35b541^---0#0#0#-19%DVTDocumentLocation2@190"file://localhost/Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.app/resources00f444b6dcffdf42^750"CpResource resources build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.app/resources    cd /Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -resolve-src-symlinks /Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/resources /Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.app36"6DA6C89B-B755-4B75-B2B5-D77A254F3A15-
+
+CGenerateDSYMFile /Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.app.dSYM /Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.app/Opdracht4-HSLeidenInfo
+s355847834.716636
+e355847834.954378
+r1
+xGenerateDSYMFile
+x/Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.app.dSYM
+x/Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.app/Opdracht4-HSLeidenInfo
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection180"Generating /Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.app.dSYMd28eb79ace35b541^9851f49ace35b541^---0#0#0#-19%DVTDocumentLocation2@185"file://localhost/Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.app.dSYM00f444b6dcffdf42^798"GenerateDSYMFile build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.app.dSYM build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.app/Opdracht4-HSLeidenInfo    cd /Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.app/Opdracht4-HSLeidenInfo -o /Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.app.dSYM36"ADEF5CBB-2B91-41C8-85C5-2D29503C9FEA-
+
+CLd /Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.app/Opdracht4-HSLeidenInfo normal i386
+s355847832.653763
+e355847834.708834
+r1
+xLd
+x/Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.app/Opdracht4-HSLeidenInfo
+xnormal
+xi386
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection192"Link /Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.app/Opdracht4-HSLeidenInfo0474a798ce35b541^4776b59ace35b541^---0#0#0#--1924"Ld build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.app/Opdracht4-HSLeidenInfo normal i386    cd /Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang++ -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -L/Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Release-iphonesimulator -Llibs/Release-iphonesimulator -L/Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/libs/Release-iphonesimulator -F/Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Release-iphonesimulator -filelist /Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Opdracht4-HSLeidenInfo.build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.build/Objects-normal/i386/Opdracht4-HSLeidenInfo.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -ObjC -Xlinker -no_implicit_dylibs -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -framework MediaPlayer -weak_framework EventKit -weak_framework CoreMotion -framework AddressBook -framework Foundation -framework UIKit -framework CoreGraphics -framework AudioToolbox -weak_framework AVFoundation -framework CoreLocation -lMoSyncLib -framework OpenGLES -framework QuartzCore -weak_framework MessageUI -o /Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.app/Opdracht4-HSLeidenInfo36"B068AE33-DDC6-4569-98E6-AFC6310A8558-
+
+CProcessInfoPlistFile /Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.app/Info.plist Opdracht4-HSLeidenInfo.plist
+s355847827.152827
+e355847827.157375
+r1
+xProcessInfoPlistFile
+x/Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.app/Info.plist
+xOpdracht4-HSLeidenInfo.plist
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Process Opdracht4-HSLeidenInfo.plistc53c2793ce35b541^13492893ce35b541^---0#0#0#-19%DVTDocumentLocation2@152"file://localhost/Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/Opdracht4-HSLeidenInfo.plist0000000000000000^848"ProcessInfoPlistFile build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.app/Info.plist Opdracht4-HSLeidenInfo.plist    cd /Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Opdracht4-HSLeidenInfo.plist -genpkginfo /Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.app/Info.plist36"43FF265F-A8C6-42FA-9589-6D48B0B42A52-
+
+CProcessPCH /var/folders/kr/czt719xx4kg2q297w57nj5sr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MoSync_Prefix-fdqqgiypnxotqehcjteazklwyxyp/MoSync_Prefix.pch.pth MoSync_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s355847827.181645
+e355847830.356480
+r1
+xProcessPCH
+x/var/folders/kr/czt719xx4kg2q297w57nj5sr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MoSync_Prefix-fdqqgiypnxotqehcjteazklwyxyp/MoSync_Prefix.pch.pth
+xMoSync_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection28"Precompile MoSync_Prefix.pch4fad2e93ce35b541^f2415b96ce35b541^---0#0#0#-19%DVTDocumentLocation2@141"file://localhost/Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/MoSync_Prefix.pch0000000000000000^3570"ProcessPCH /var/folders/kr/czt719xx4kg2q297w57nj5sr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MoSync_Prefix-fdqqgiypnxotqehcjteazklwyxyp/MoSync_Prefix.pch.pth MoSync_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -D_USE_REBUILDER_ -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote /Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Opdracht4-HSLeidenInfo.build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.build/Opdracht4-HSLeidenInfo-generated-files.hmap -I/Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Opdracht4-HSLeidenInfo.build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.build/Opdracht4-HSLeidenInfo-own-target-headers.hmap -I/Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Opdracht4-HSLeidenInfo.build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.build/Opdracht4-HSLeidenInfo-all-target-headers.hmap -iquote /Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Opdracht4-HSLeidenInfo.build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.build/Opdracht4-HSLeidenInfo-project-headers.hmap -I/Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Release-iphonesimulator/include -IClasses -I/Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Opdracht4-HSLeidenInfo.build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.build/DerivedSources/i386 -I/Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Opdracht4-HSLeidenInfo.build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.build/DerivedSources -F/Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Release-iphonesimulator -c /Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/MoSync_Prefix.pch -o /var/folders/kr/czt719xx4kg2q297w57nj5sr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MoSync_Prefix-fdqqgiypnxotqehcjteazklwyxyp/MoSync_Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/kr/czt719xx4kg2q297w57nj5sr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MoSync_Prefix-fdqqgiypnxotqehcjteazklwyxyp/MoSync_Prefix.pch.d36"84F61052-C0A0-4F19-8C14-B4A94852A4F9-
+
+CProcessPCH++ /var/folders/kr/czt719xx4kg2q297w57nj5sr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MoSync_Prefix-fksbabuajbbdqfevzmxwatzeksgb/MoSync_Prefix.pch.pth MoSync_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s355847827.181662
+e355847827.498839
+r1
+xProcessPCH++
+x/var/folders/kr/czt719xx4kg2q297w57nj5sr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MoSync_Prefix-fksbabuajbbdqfevzmxwatzeksgb/MoSync_Prefix.pch.pth
+xMoSync_Prefix.pch
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection28"Precompile MoSync_Prefix.pcha3ad2e93ce35b541^fab37f93ce35b541^---0#0#0#-19%DVTDocumentLocation2@141"file://localhost/Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/MoSync_Prefix.pch0000000000000000^3387"ProcessPCH++ /var/folders/kr/czt719xx4kg2q297w57nj5sr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MoSync_Prefix-fksbabuajbbdqfevzmxwatzeksgb/MoSync_Prefix.pch.pth MoSync_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x c++-header -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -D_USE_REBUILDER_ -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote /Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Opdracht4-HSLeidenInfo.build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.build/Opdracht4-HSLeidenInfo-generated-files.hmap -I/Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Opdracht4-HSLeidenInfo.build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.build/Opdracht4-HSLeidenInfo-own-target-headers.hmap -I/Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Opdracht4-HSLeidenInfo.build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.build/Opdracht4-HSLeidenInfo-all-target-headers.hmap -iquote /Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Opdracht4-HSLeidenInfo.build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.build/Opdracht4-HSLeidenInfo-project-headers.hmap -I/Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Release-iphonesimulator/include -IClasses -I/Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Opdracht4-HSLeidenInfo.build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.build/DerivedSources/i386 -I/Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Opdracht4-HSLeidenInfo.build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.build/DerivedSources -F/Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Release-iphonesimulator -c /Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/MoSync_Prefix.pch -o /var/folders/kr/czt719xx4kg2q297w57nj5sr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MoSync_Prefix-fksbabuajbbdqfevzmxwatzeksgb/MoSync_Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/kr/czt719xx4kg2q297w57nj5sr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MoSync_Prefix-fksbabuajbbdqfevzmxwatzeksgb/MoSync_Prefix.pch.d36"AB5C48D3-5461-42CE-A114-D9E101FF0749-
+
+CProcessPCH++ /var/folders/kr/czt719xx4kg2q297w57nj5sr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MoSync_Prefix-fxqsmxyyniclqlfgbkoczblpfgiu/MoSync_Prefix.pch.pth MoSync_Prefix.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s355847827.181660
+e355847830.405829
+r1
+xProcessPCH++
+x/var/folders/kr/czt719xx4kg2q297w57nj5sr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MoSync_Prefix-fxqsmxyyniclqlfgbkoczblpfgiu/MoSync_Prefix.pch.pth
+xMoSync_Prefix.pch
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection28"Precompile MoSync_Prefix.pch8faa2e93ce35b541^fbe56796ce35b541^---0#0#0#-19%DVTDocumentLocation2@141"file://localhost/Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/MoSync_Prefix.pch0000000000000000^3627"ProcessPCH++ /var/folders/kr/czt719xx4kg2q297w57nj5sr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MoSync_Prefix-fxqsmxyyniclqlfgbkoczblpfgiu/MoSync_Prefix.pch.pth MoSync_Prefix.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c++-header -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -Wno-arc-abi -Wc++0x-extensions -D_USE_REBUILDER_ -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote /Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Opdracht4-HSLeidenInfo.build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.build/Opdracht4-HSLeidenInfo-generated-files.hmap -I/Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Opdracht4-HSLeidenInfo.build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.build/Opdracht4-HSLeidenInfo-own-target-headers.hmap -I/Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Opdracht4-HSLeidenInfo.build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.build/Opdracht4-HSLeidenInfo-all-target-headers.hmap -iquote /Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Opdracht4-HSLeidenInfo.build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.build/Opdracht4-HSLeidenInfo-project-headers.hmap -I/Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Release-iphonesimulator/include -IClasses -I/Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Opdracht4-HSLeidenInfo.build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.build/DerivedSources/i386 -I/Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Opdracht4-HSLeidenInfo.build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.build/DerivedSources -F/Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Release-iphonesimulator -c /Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/MoSync_Prefix.pch -o /var/folders/kr/czt719xx4kg2q297w57nj5sr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MoSync_Prefix-fxqsmxyyniclqlfgbkoczblpfgiu/MoSync_Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/kr/czt719xx4kg2q297w57nj5sr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MoSync_Prefix-fxqsmxyyniclqlfgbkoczblpfgiu/MoSync_Prefix.pch.d36"467B1C9B-55A3-4B1C-B65A-44E4975C684D-
+
+CTouch /Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.app
+s355847834.962456
+e355847834.992793
+r1
+xTouch
+x/Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.app
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection170"Touch /Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.app6875f69ace35b541^f52afe9ace35b541^---0#0#0#--496"Touch build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.app    cd /Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/feonx/workspace/Opdracht4-HSLeidenInfo/FinalOutput/Release/Apple/iPhone_simulator/package/xcode-proj/build/Release-iphonesimulator/Opdracht4-HSLeidenInfo.app36"2267E8D6-F044-48FF-A0E3-9867829ADEFB-
+
